@@ -25,6 +25,9 @@ Mac Dynamic Island 风格的 Claude Code 工作状态悬浮窗，实时可视化
 | 🟠 有问题 | `#FF9F0A` | Claude 有问题要问你 |
 | ⚫ 空闲 | `#636366` | 等待你的指令 |
 
+<img width="549" height="157" alt="image" src="https://github.com/user-attachments/assets/ab6a07dd-59a6-4d13-805a-b89c29067325" />
+
+
 ## 📦 安装
 
 ### 前置要求
